@@ -8,6 +8,12 @@ https://medium.com/@varsha.rainer/building-a-rag-application-from-scratch-using-
 
 ![](img/2024-05-26-10-40-25.png)
 
+## Retrieval
+
+![](img/2024-05-26-11-53-02.png)
+source :  [langchain retrieval](https://python.langchain.com/v0.1/docs/modules/data_connection/)
+
+
 ### Retrivers
 
 Once the vector store is set up, a `Retriever` is used to run sililarity search (question against the documents embeddings) and retrun most similar Once
