@@ -6,7 +6,7 @@ https://medium.com/@varsha.rainer/building-a-rag-application-from-scratch-using-
 
 ## Embeddings
 
-![](2024-05-26-10-40-25.png)
+![](img/2024-05-26-10-40-25.png)
 
 ### Retrivers
 
