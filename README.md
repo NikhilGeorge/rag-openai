@@ -2,6 +2,18 @@
 ## Source
 https://medium.com/@varsha.rainer/building-a-rag-application-from-scratch-using-langchain-openais-whisper-pinecone-6b2fbf22f77f
 
+Here is a summary of the key points from the Medium article "Building a RAG Application from Scratch Using LangChain, OpenAI's Whisper, and Pinecone":
+
+- The article shows how to build a simple application to answer questions from YouTube videos using a large language model (LLM)
+- The application uses LangChain, OpenAI's Whisper for speech-to-text transcription, and Pinecone for vector search
+- Key steps include:
+  - Transcribing YouTube videos using Whisper
+  - Embedding the transcripts using OpenAI's text embeddings
+  - Storing the embeddings in Pinecone's vector database
+  - Building a retrieval-augmented generation (RAG) model using LangChain to retrieve relevant parts of the transcripts and generate answers
+- The goal is to create an application that can answer questions about the content of YouTube videos by leveraging LLMs and retrieval from the video transcripts[1]
+
+
 ## Concepts
 
 ## Embeddings
